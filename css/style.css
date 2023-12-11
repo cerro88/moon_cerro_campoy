@@ -1,0 +1,14 @@
+body{
+    font-family: roboto;
+    font-size: 15px;
+    background-image: url();
+}
+
+.header{
+    background: #0000FF;
+    height: 70px;
+}
+
+.menu{
+    color: #fff;
+}
